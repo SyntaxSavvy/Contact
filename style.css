@@ -258,7 +258,8 @@ a{
     .logo{
         position: absolute;
         top: 30px;
-        left: 30px;
+        left: 30px; 
+        font-size: 20px;  
     }
 
     .nav-links{
